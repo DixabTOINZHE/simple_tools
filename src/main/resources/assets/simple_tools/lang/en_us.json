@@ -1,0 +1,81 @@
+{
+
+  "simple_tools_group.simple_tools.name": "Simple Tools",
+
+
+  "item.simple_tools.block_searcher": "Block searcher",
+  "item.simple_tools.block_searcher.tip.normally": "\u00A77Right-click to search the blocks... \u00A7r\u00A75[Alt]\u00A7r\u00A77 to read more.",
+  "item.simple_tools.block_searcher.tip.diameter": "\u00A72Diameter: %s \u00A72blocks.",
+  "item.simple_tools.block_searcher.tip.alt.line3": "\u00A77Alt + right-click to change the searching diameter.",
+  "item.simple_tools.block_searcher.tip.alt.line1": "\u00A77Put a block at your offhand, then",
+  "item.simple_tools.block_searcher.tip.alt.line2": "\u00A77Right-click a block to search the blocks.",
+
+  "item.simple_tools.block_searcher.show_searching_object": "[Block searcher] Searching object: %s.",
+  "item.simple_tools.block_searcher.offhand_empty_error": "[Block searcher] Error: There's no block at offhand.",
+  "item.simple_tools.block_searcher.offhand_is_not_block_error": "[Block searcher] Error: The item at offhand is not a block.",
+  "item.simple_tools.block_searcher.changed_diameter": "[Block searcher] Changed diameter into %s blocks.",
+  "item.simple_tools.block_searcher.start": "[Block searcher] Started to searching.",
+  "item.simple_tools.block_searcher.finish": "[Block searcher] Finished to searching.",
+  "item.simple_tools.block_searcher.search_diameter": "[Block searcher] Search in %s×%s×%s cube.",
+  "item.simple_tools.block_searcher.not_found": "[Block searcher] Do not searched any block.",
+  "item.simple_tools.block_searcher.found_pre": "[Block searcher] Searched ",
+  "item.simple_tools.block_searcher.found_suf": " block(s).",
+
+  "item.simple_tools.nether_portal_frame_generator": "Nether portal frame generator",
+  "item.simple_tools.nether_portal_frame_generator.tip": "\u00A77Right-click a block to generate a nether portal if the space is enough.",
+
+  "item.simple_tools.nether_portal_frame_generator.in_the_end_error": "[Nether portal frame generator] Error: Cannot generate a nether portal frame in the end.",
+  "item.simple_tools.nether_portal_frame_generator.no_space_error": "[Nether portal frame generator] Error: No enough space.",
+  "item.simple_tools.nether_portal_frame_generator.obsidian_is_not_enough_error": "[Nether portal frame generator] Error: Obsidian is not enough.",
+  "item.simple_tools.nether_portal_frame_generator.start": "[Nether portal frame generator] Started to generate.",
+  "item.simple_tools.nether_portal_frame_generator.massages": "[Nether portal frame generator] Need %s obsidians.",
+  "item.simple_tools.nether_portal_frame_generator.finish": "[Nether portal frame generator] Generated a nether portal frame.",
+
+  "item.simple_tools.block_placer": "Block placer",
+  "item.simple_tools.block_placer.tip.normally": "\u00A77Right-click to place the blocks... \u00A7r\u00A75[Alt]\u00A7r\u00A77 to read more.",
+  "item.simple_tools.block_placer.tip.alt.line1":"\u00A77Put a block on your offhand, then",
+  "item.simple_tools.block_placer.tip.alt.line2": "\u00A77Right-click to place the blocks.",
+  "item.simple_tools.block_placer.tip.alt.line3":"\u00A77Ctrl + right-click to change the place mode.",
+  "item.simple_tools.block_placer.tip.alt.line4":"\u00A77Alt + right-click to change the placing radius.",
+  "item.simple_tools.block_placer.tip.diameter": "\u00A72Diameter :\u00A72 %s\u00A72 blocks.",
+  "item.simple_tools.block_placer.tip.mode_1": "\u00A72Mode 1: Horizontal plane placement.\u00A7r",
+  "item.simple_tools.block_placer.tip.mode_2": "\u00A72Mode 2: Vertical placement (Along axis x).\u00A7r",
+  "item.simple_tools.block_placer.tip.mode_3": "\u00A72Mode 3: Vertical placement (Along axis z).\u00A7r",
+  "item.simple_tools.block_placer.tip.mode_4": "\u00A72Mode 4: Cube placement.\u00A7r",
+
+  "item.simple_tools.block_placer.offhand_empty_error": "[Block placer] Error: There's no block at offhand.",
+  "item.simple_tools.block_placer.offhand_is_not_block_error": "[Block placer] Error: The item at offhand is not a block.",
+  "item.simple_tools.block_placer.block_is_not_enough_error": "[Block placer] Error: %s is not enough.",
+  "item.simple_tools.block_placer.out_of_the_world_error": "[Block placer] Error: Some positions need to place are out of the world.",
+  "item.simple_tools.block_placer.not_supported_block_error": "[Block placer] Error: Cannot place %s by block placer.",
+  "item.simple_tools.block_placer.changed_diameter.pre": "[Block placer] Changed the diameter of placing into ",
+  "item.simple_tools.block_placer.changed_diameter.suf": " blocks.",
+  "item.simple_tools.block_placer.place_mode.mode_1": "[Block placer] Mode 1: Horizontal plane placement.",
+  "item.simple_tools.block_placer.place_mode.mode_2": "[Block placer] Mode 2: Vertical placement (Along axis x).",
+  "item.simple_tools.block_placer.place_mode.mode_3": "[Block placer] Mode 3: Vertical placement (Along axis z).",
+  "item.simple_tools.block_placer.place_mode.mode_4": "[Block placer] Mode 4: Cube placement.",
+  "item.simple_tools.block_placer.start": "[Block placer] Started to place.",
+  "item.simple_tools.block_placer.placed": "[Block placer] Placed %s on %s .",
+  "item.simple_tools.block_placer.failed_to_place": "[Block placer] Failed to place %s on %s , because the block you're replacing is not replaceable",
+  "item.simple_tools.block_placer.finish": "[Block placer] Finished to place.",
+
+  "item.simple_tools.slime_block_placer": "Slime block placer",
+  "item.simple_tools.slime_block_placer.tip.diameter": "\u00A72Diameter: %s \u00A72blocks.",
+  "item.simple_tools.slime_block_placer.tip.normally": "\u00A77Right-click to... \u00A7r\u00A75[Alt]\u00A7r\u00A77 to read more.",
+  "item.simple_tools.slime_block_placer.tip.alt.line1": "\u00A77Right-click to place the slime block(s).",
+  "item.simple_tools.slime_block_placer.tip.alt.line2": "\u00A77Ctrl + right-click to change the place mode.",
+
+  "item.simple_tools.slime_block_placer.no_slime_block_error": "[Slime block placer] Error: You have no slime block to place.",
+  "item.simple_tools.slime_block_placer.no_space_error": "[Slime block placer] Error: No space to place slime blocks.",
+  "item.simple_tools.slime_block_placer.changed_place_diameter": "[Slime block placer] Changed the diameter of placing into %s block(s).",
+  "item.simple_tools.slime_block_placer.placed": "[Slime block placer] Placed slime block(s).",
+
+  "item.simple_tools.player_stealer": "Player stealer",
+  "item.simple_tools.player_stealer.tip.normally": "\u00A77Right-click a player to steal his/her inventory.",
+
+  "item.simple_tools.player_stealer.object_is_not_player_error": "[Player stealer] Error: You are not trying to steal a player.",
+  "item.simple_tools.player_stealer.start": "[Player stealer] Started to steal %s's inventory.",
+  "item.simple_tools.player_stealer.finish": "[Player stealer] Finished to steal %s's inventory.",
+  "item.simple_tools.player_stealer.be_stolen": "[Player stealer] Your inventory was stolen by %s.",
+  "item.simple_tools.player_stealer.steal_item": "[Player stealer] Stole %s %s(s)."
+}
