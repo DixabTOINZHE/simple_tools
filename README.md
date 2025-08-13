@@ -1,5 +1,5 @@
 # simple_tools
-Code of Simple Tools
+Code of Simple Tools v1.1.2-1.21
 
 Main page: [modrinth.com/mod/simple_tools](url)
 
