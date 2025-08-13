@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.simple_tools.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"stMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

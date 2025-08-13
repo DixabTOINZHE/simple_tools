@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "s": {
+      "item": "minecraft:slime_ball"
+    },
+    "S": {
+      "item": "minecraft:slime_block"
+    }
+  },
+  "pattern": [
+    "sSs",
+    "rRr",
+    "sSs"
+  ],
+  "result": {
+    "count": 1,
+    "id": "simple_tools:slime_block_placer"
+  }
+}
